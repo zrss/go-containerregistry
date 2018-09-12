@@ -16,8 +16,9 @@ package main
 
 import (
 	"testing"
-	"github.com/google/go-containerregistry/pkg/v1/random"
 	"path/filepath"
+
+	"github.com/google/go-containerregistry/pkg/v1/random"
 	"github.com/google/go-containerregistry/pkg/ko/build"
 	"github.com/google/go-containerregistry/pkg/v1"
 )
